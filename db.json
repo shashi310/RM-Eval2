@@ -1,0 +1,53 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Tommy",
+      "age": 4,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "name": "lufy",
+      "age": 7,
+      "place": "Varanasi",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "naruto",
+      "age": 10,
+      "place": "Konoha",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Madara",
+      "age": 9,
+      "place": "Leaf",
+      "gender": "Male"
+    },
+    {
+      "id": 7,
+      "name": "Tommy",
+      "age": 6,
+      "place": "Banglore",
+      "gender": "Female"
+    }
+  ]
+}
